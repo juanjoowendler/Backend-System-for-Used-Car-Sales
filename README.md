@@ -77,7 +77,6 @@ Areas considered dangerous where vehicles cannot operate.
 ![Allowed Radius](public/google-earth/radio-adminito.jpg)  
 Geographical area within which vehicles can operate without restrictions.
 
-For more details, visit the interactive map on [Google Earth](https://earth.google.com/earth/d/1MhR_sH8E4Rkww0rtBbOarKmjkQdc1RNU?usp=sharing). 
 
 ##  Technical Requirements
 - **Programming Language**: Java.
